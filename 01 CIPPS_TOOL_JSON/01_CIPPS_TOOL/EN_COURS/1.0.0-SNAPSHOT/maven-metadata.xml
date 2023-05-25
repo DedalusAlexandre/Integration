@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.dedalus_e4m</groupId>
+  <artifactId>inovie</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221212.102713</timestamp>
+      <buildNumber>71</buildNumber>
+    </snapshot>
+    <lastUpdated>20221212102713</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20221212.102713-71</value>
+        <updated>20221212102713</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20221212.102713-71</value>
+        <updated>20221212102713</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
